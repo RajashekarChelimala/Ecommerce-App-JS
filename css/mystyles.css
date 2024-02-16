@@ -1,0 +1,28 @@
+.card{
+    width: 250px;
+    height: 300px;
+    border: 1px solid black;
+    float:left;
+    margin:10px;
+    box-sizing: border-box;
+    text-align: center;
+    position: relative;
+}
+
+.card-header{
+    font-size: 16px;
+}
+
+.card-body img{
+    width: 100px;
+    height: 100px;
+}
+
+.card-footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+#productsList{
+    width: 100%;
+}
